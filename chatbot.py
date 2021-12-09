@@ -3,7 +3,6 @@ import boto3
 import requests
 from telebot import TeleBot
 from config import SECRET, BUCKET, SESSION, PLACE
-import report as r
 import tempfile
 import os
 
